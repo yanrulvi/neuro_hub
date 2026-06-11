@@ -1,0 +1,8 @@
+{
+    "name": "kv",
+    "version": "1.0.0",
+    "subscriptions": [
+        "kv"
+    ],
+    "enabled": true
+}
